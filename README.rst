@@ -1,5 +1,5 @@
 
-$project represents the introduction to the simulation of quantum spin systems using Python
+The project represents the introduction to the simulation of quantum spin systems using Python.
 
 Contribute
 ----------
